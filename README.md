@@ -37,6 +37,7 @@ Após instalar todos os programas abra o Wampserver que estará em seu "Ocultar"
 -  USE oficina;
 
 -Crie uma tabela com o nome "clientes"
+
 -CREATE TABLE clientes (nome VARCHAR(30), moto VARCHAR(30), telefone INT, id int NOT NULL AUTO_INCREMENT PRIMARY KEY);
 
 
