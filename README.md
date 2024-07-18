@@ -6,8 +6,11 @@ fique à vontade para modificar e usa-la como base.
 
 # Comandos iniciais(git)
 -Na aba "<>Code" clique e copie a URL 
+
 -Dentro do diretorio que você escolheu use o comando "git clone + 'link que você copiou' "
+
 -Após o clone troque de diretorio usando o comando "cd APIoficina"
+
 -Dentro do diretorio ja estara tudo pronto para continuar 
 
 # Requisitos 
@@ -34,7 +37,7 @@ Após instalar todos os programas abra o Wampserver que estará em seu "Ocultar"
 -  USE oficina;
 
 -Crie uma tabela com o nome "clientes"
-CREATE TABLE clientes (nome VARCHAR(30), moto VARCHAR(30), telefone INT, id int NOT NULL AUTO_INCREMENT PRIMARY KEY);
+-CREATE TABLE clientes (nome VARCHAR(30), moto VARCHAR(30), telefone INT, id int NOT NULL AUTO_INCREMENT PRIMARY KEY);
 
 
 # Passando para o Visual Studio
