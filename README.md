@@ -4,6 +4,11 @@
 Essa API simula uma simples lista de clientes de uma oficina
 fique à vontade para modificar e usa-la como base.
 
+# Comandos iniciais(git)
+-Na aba "<>Code" clique e copie a URL 
+-Dentro do diretorio que você escolheu use o comando "git clone + 'link que você copiou' "
+-Após o clone troque de diretorio usando o comando "cd APIoficina"
+-Dentro do diretorio ja estara tudo pronto para continuar 
 
 # Requisitos 
 
