@@ -1,0 +1,15 @@
+{
+  "name": "apioficina",
+  "version": "1.0.0",
+  "description": "Uma simples API para ser usada para testes ou ser usada como base ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HigorCardoso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
